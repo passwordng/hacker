@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![Branching](https://github.com/passwordng/hacker/blob/master/assets/images/ng-whitehat-splash.png)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -98,7 +99,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 
 
 ### Definition lists can be used with HTML syntax.
