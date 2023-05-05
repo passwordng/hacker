@@ -5,7 +5,7 @@ google_analytics:
 theme: jekyll-theme-hacker
 
 github:
-  twitter_url: advisory-intel.md
-  linkedin_url: people-cert.md
+  twitter_url: advisory-intel
+  linkedin_url: people-cert
   
 
