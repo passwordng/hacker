@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Branching](https://github.com/passwordng/hacker/blob/master/assets/images/ng-whitehat-splash.png)
+![whitehat_ng](https://github.com/passwordng/hacker/blob/master/assets/images/ng-whitehat-splash.png)
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
