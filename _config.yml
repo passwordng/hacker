@@ -5,5 +5,7 @@ google_analytics:
 theme: jekyll-theme-hacker
 
 github:
-  twitter_url: https://whitehat.ng
-  linkedin_url: https://whitehat.ng
+  twitter_url: (./advisory-intel.md)
+  linkedin_url: (./people-cert.md)
+  
+
