@@ -33,6 +33,9 @@ Fig 4. Passports as used by customers as a means of identity validations for ena
 
 Fig 5. Personally Identifiable Information of Customers.
 
+This data as contained in Fig 3, 4, and 5 above indicated the ALPHV group is not bluffing about what they are currently holding on the alleged victim, thousands of customer’s personal data and business-related data. Information on the leak site indicated that what was currently published is just a part of the stolen data, and if management (of the alleged victim’s company) did not contact soon will warrant the release of others.
+
+Using other available open sources to confirm what we have now, we leverage FalconFeedsio, a known Twitter page that shares intel on activities of malicious threat groups from the dark web, also confirmed we have similar information regarding the leak site on the 16th.
 
 ## Advisory and Threat Intelligence
 
