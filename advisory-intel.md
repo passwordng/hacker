@@ -22,6 +22,16 @@ Basically in 2022, the following happened;
 
 Cobalt strike is a legitimate and powerful post-exploitation tool known for its abuse by cybercriminals targeting organizations’ networks and always part of the tools used in the MOs for this particular ransomware group that is getting their second public hit in Nigeria (ALPHV / Blackcat). And it will interest you to know that FBI documentation carrying the MOs of this ransomware group captured it as shown below.
 
+Fig 2.  Technical Detail of the BlackCat/ALPHV ransomware as documented by the FBI.
+
+This background reinforces our belief that the publication date of this compromise on the leakage site of ALPHV is not the same as the real incident date, and is very far from the initial date of entry. The ransomware deployment part of the incident might have happened earlier, maybe a week earlier putting it at the first week of April at best. Considering the phases involved in a successful and sophisticated compromise as this which cut across the adversary gaining initial access to the network, the conduct of internal recon of the alleged victim’s networks, finding important data and laterally moving across different connected business segments networks down to exfiltration of the data, confidential business data as we come to find out wouldn’t be just an overnight work. The start of this journey to the end might have taken months before the ransomware deployment.
+Back to those working on getting more concrete information regarding what was published on the leak site; we were able to confirm certain sensitive information such as strategy documents, the company’s finances, customers PII and others as shown below. 
+
+Fig 3. Company’s Financials
+
+Fig 4. Passports as used by customers as a means of identity validations for enabling services offered.
+
+Fig 5. Personally Identifiable Information of Customers.
 
 
 ## Advisory and Threat Intelligence
