@@ -13,6 +13,7 @@ Fig 1. Screenshot from ALPHV leak site displaying some part of the stolen data, 
 
 A little background from what we know before this time….
 A week earlier, we got some intel and notification of intrusion on certain facilities which has to do with the usage of Cobalt Strike in its post-exploitation as documented by the CyberPlural’s Team. This introduced a couple of questions as to whether the country is being targeted towards this time as a similar incident had been previously captured by the team in 2022, just a few days after the Bet9ja incident became news. 
+
 Basically in 2022, the following happened;
 -	Bet9ja Ransomware Incident 
 -	ALPHV / Blackcat was stated to be responsible
