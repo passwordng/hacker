@@ -17,6 +17,10 @@ Basically in 2022, the following happened;
 -	Bet9ja Ransomware Incident 
 -	ALPHV / Blackcat was stated to be responsible
 -	Cobalt Strike Post-Exploitation Tool observed around certain facilities in Nigeria. 
+- Bet9ja was updating stakeholders on their progress throughout the incident, and providing assurance to customers on their progress to restoring.
+
+Cobalt strike is a legitimate and powerful post-exploitation tool known for its abuse by cybercriminals targeting organizations’ networks and always part of the tools used in the MOs for this particular ransomware group that is getting their second public hit in Nigeria (ALPHV / Blackcat). And it will interest you to know that FBI documentation carrying the MOs of this ransomware group captured it as shown below.
+
 
 
 ## Advisory and Threat Intelligence
