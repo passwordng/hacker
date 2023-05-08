@@ -33,6 +33,7 @@ Fig 3. Company’s Financials
 
 ![Fig4](https://raw.githubusercontent.com/passwordng/hacker/master/assets/images/fig4.jpg)
 Fig 4. Passports as used by customers as a means of identity validations for enabling services offered.
+
 ![Fig5](https://raw.githubusercontent.com/passwordng/hacker/master/assets/images/fig5.png)
 Fig 5. Personally Identifiable Information of Customers.
 
