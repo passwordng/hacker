@@ -37,6 +37,13 @@ This data as contained in Fig 3, 4, and 5 above indicated the ALPHV group is not
 
 Using other available open sources to confirm what we have now, we leverage FalconFeedsio, a known Twitter page that shares intel on activities of malicious threat groups from the dark web, also confirmed we have similar information regarding the leak site on the 16th.
 
+Fig 6.
+
+On one hand, we are also expecting an official statement on this incident from the alleged victim to be sure that this is real. The statement is also expected to guide customers in ensuring there are protected from secondary attacks such as phishing & social engineering, as well as stakeholders getting to know of the progress the organization is making in restoring and becoming operational. Such a statement has also been seen in the past to have helped protect other businesses and organizations operating in the same space and industry as the alleged victim of such an ugly incident.
+
+After four days of waiting, no official statement from any quarter and we already concluding the ALPHV group might as well start releasing the rest of the data or maybe some transactions might have exchanged hands which might make the alleged victim publication to be removed from their site; any of these two is possible at this time.  Then we come across an interesting story from Business Day Newspaper on April 19th, 2023 as captured below.
+
+
 ## Advisory and Threat Intelligence
 
 _yay_
